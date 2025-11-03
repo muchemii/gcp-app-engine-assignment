@@ -66,7 +66,7 @@ The `app.yaml` file configures:
 
 ## Student Information
 
-- **Name:** SAITOTI NJAPIT
-- **Registration Number:** 23/05817
+- **Name:** CHRIS MUCHEMI
+- **Registration Number:** 23/07447
 - **Course:** CPP 3102 - General
 
