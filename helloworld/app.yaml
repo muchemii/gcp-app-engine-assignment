@@ -1,0 +1,17 @@
+runtime: python312
+
+# This file specifies your Python runtime and App Engine configuration
+# For more information, see: https://cloud.google.com/appengine/docs/standard/python3/config/appref
+
+# Application environment variables
+env_variables:
+  FLASK_ENV: production
+
+# Automatic scaling configuration
+automatic_scaling:
+  min_instances: 1
+  max_instances: 10
+  target_cpu_utilization: 0.6
+
+# Instance class
+instance_class: F1
